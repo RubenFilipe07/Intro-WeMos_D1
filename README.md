@@ -1,8 +1,8 @@
 # intro-wemos_D1
-<h3>Introdução para a placa wemos D1 R2</h3>  <br/>
+<h3>Introdução para a placa wemos D1 R2</h3>  
   
 A WeMos D1 é uma placa compátivel com o arduino uno. Ela utiliza o soc (system on chip) ESP8266EX. <br/>
-Esta placa conta com wi-fi integrado, sendo uma opção acessível para o iot (internet of things).
+Esta placa conta com wi-fi integrado, sendo uma opção acessível para o iot (internet of things).  <br/>
 
 <strong>Especificações:</strong>
 <ul>
@@ -12,6 +12,7 @@ Esta placa conta com wi-fi integrado, sendo uma opção acessível para o iot (i
 <li>Aceita alimentação externa entre 9 e 24V.</li>  
 <li>Compatível com Arduino</li>  
 <li>Compatível com nodemcu</li>  
-</ul>
-  
-Fonte: https://wiki.wemos.cc/products:d1:d1
+</ul> <br/> 
+
+Fonte: <a href='https://wiki.wemos.cc/products:d1:d1'>wiki.wemos.cc</a> <br/> 
+<a href='https://wiki.wemos.cc/_media/products:d1:d1_v2.0.0.pdf'>Datasheet</a>

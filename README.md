@@ -40,18 +40,23 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 >e escolha o sistema operacional de seu computador.
 
 <p>Abra o menu e vá em File>Preferences</p>
-<p>Procure por "Additional Boards Manager URLs", e insirira esse URL: </p>
+<img src="https://user-images.githubusercontent.com/53026536/69002501-52492800-08cf-11ea-8476-74e373a8c13a.png">
+<p>Procure por "Additional Boards Manager URLs", e insira esse URL: </p>
 <code>http://arduino.esp8266.com/stable/package_esp8266com_index.json</code>
-<p>Este campo pode ser preenchido com várias urls, basta separá-las por vírgulas <br/>
- Clique em OK para fechar essa aba</p>
+<img src="https://user-images.githubusercontent.com/53026536/69002466-a1428d80-08ce-11ea-87a7-03b7b6f1ed63.png">
+
+<p>Este campo pode ser preenchido com várias urls, basta separá-las por vírgulas. <br/>
+ Clique em OK para fechar essa aba.</p>
 
 <h4>2° passo</h4>
 <p>Abra o menu novamente e vá em "Tools>Board>Board Manager"</p>
+<img src="https://user-images.githubusercontent.com/53026536/69002522-b2d86500-08cf-11ea-8008-c8f4d5f8ed55.png">
 <p>Logo após procure por esp8266 e clique em instalar. Aguarde o processo de instalação</p>
 
 <h4>3° passo</h4>
 <p>Com a placa instalada, basta seleciona-lá em "boards"</p>
-<p>Procure por Wemos D1 e selecione</p>
+<p>Procure por Wemos D1 R2 e a selecione</p>
+<img src="https://user-images.githubusercontent.com/53026536/69002493-3180d280-08cf-11ea-922c-97b3f91d82b5.png">
 <p>Sua placa estará pronta para uso :)</p>
 
 

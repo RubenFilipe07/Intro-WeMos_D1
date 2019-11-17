@@ -19,7 +19,7 @@ Esta placa conta com wi-fi integrado, sendo uma opção acessível para IoT (int
 </ul> <br/> 
 <a href="https://wiki.wemos.cc/_media/products:d1:d1_v2.0.0.pdf">Datasheet da placa</a> <br/> 
 Fonte: <a href="https://wiki.wemos.cc/products:d1:d1">wiki.wemos.cc</a> <br/> 
-
+<br/> 
 <p>Esta placa é visualmente similar ao arduino e pode ser programada na IDE do arduino usando a programação padrão, o C++. <p/>
 
 <p>Ela tem como base o arduino uno, e funciona de forma similar. Porém com uma conexão a rede wifi inclusa. 

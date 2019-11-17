@@ -23,8 +23,8 @@ Fonte: <a href="https://wiki.wemos.cc/products:d1:d1">wiki.wemos.cc</a> <br/>
 <br/> 
 <p>Esta placa é visualmente similar ao arduino e pode ser programada na IDE do arduino usando a programação padrão, o C++. <p/>
 
-<p>Ela tem como base o arduino uno, e funciona de forma similar. Porém com uma conexão a rede wifi inclusa. 
-Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress. No brasil você encontra facilmente por volta de 50 reais. <p/>
+<p>Ela tem como base o arduino uno e funciona de forma similar, porém com uma conexão a rede wifi inclusa. 
+Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no brasil você encontra facilmente por volta de 50 reais. <p/>
 
 <p>Adquiri a minha aqui: <a href="https://pt.aliexpress.com/item/32758176555.html">https://pt.aliexpress.com/item/32758176555.html</a>
 <p/>

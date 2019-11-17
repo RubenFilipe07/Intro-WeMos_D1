@@ -41,7 +41,7 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 
 <p>Abra o menu e vá em File>Preferences</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002501-52492800-08cf-11ea-8476-74e373a8c13a.png">
-<p>Procure por "Additional Boards Manager URLs", e insira esse URL: </p> <br/>
+<p>Procure por "Additional Boards Manager URLs", e insira esse URL: </p> 
 <code>http://arduino.esp8266.com/stable/package_esp8266com_index.json</code> <br/>
 <img src="https://user-images.githubusercontent.com/53026536/69002466-a1428d80-08ce-11ea-87a7-03b7b6f1ed63.png">
 
@@ -54,7 +54,7 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 <img src="https://user-images.githubusercontent.com/53026536/69002522-b2d86500-08cf-11ea-8008-c8f4d5f8ed55.png">
 
 <h4>3° passo</h4>
-<p>Com a placa instalada, basta seleciona-lá em "boards"</p>
+<p>Com a placa instalada, basta seleciona-lá em "Tools>board"</p>
 <p>Procure por Wemos D1 R2 e a selecione</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002493-3180d280-08cf-11ea-922c-97b3f91d82b5.png">
 <p><strong>Sua placa estará pronta para uso :)</strong></p>

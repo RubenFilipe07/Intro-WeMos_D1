@@ -50,6 +50,7 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 
 <h4>2° passo</h4>
 <p>Abra o menu novamente e vá em "Tools>Board>Board Manager"</p>
+<img src="https://user-images.githubusercontent.com/53026536/69002599-478f9280-08d1-11ea-9a18-c6dbf7cd1229.png">
 <p>Logo após procure por esp8266 e clique em instalar. Aguarde o processo de instalação.</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002522-b2d86500-08cf-11ea-8008-c8f4d5f8ed55.png">
 

@@ -33,7 +33,11 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 
 <h1>Guia de uso</h1>
 <p>Para programar a placa utilizando a IDE do arduino você precisa adicionar o suporte para o esp8266.</p>
+
 <h4>1° passo</h4>
+<p>Baixe o driver <a href="https://wiki.wemos.cc/downloads">CH340</a> caso não tenha. Clique <a href="https://wiki.wemos.cc/downloads">aqui</a> para baixar.</p>
+
+<h4>2° passo</h4>
 <p>Abra a ide do arduino.</p>
 
 >Se não ainda tiver instalado, clique <a href="https://www.arduino.cc/en/main/software">AQUI</a>
@@ -48,13 +52,13 @@ Seu custo varia entre 20 e 30 reais em sites chineses como o aliexpress, já no 
 <p>Este campo pode ser preenchido com várias urls, basta separá-las por vírgulas. <br/>
  Clique em OK para fechar essa aba.</p>
 
-<h4>2° passo</h4>
+<h4>3° passo</h4>
 <p>Abra o menu novamente e vá em "Tools>Board>Board Manager"</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002599-478f9280-08d1-11ea-9a18-c6dbf7cd1229.png">
 <p>Logo após procure por esp8266 e clique em instalar. Aguarde o processo de instalação.</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002522-b2d86500-08cf-11ea-8008-c8f4d5f8ed55.png">
 
-<h4>3° passo</h4>
+<h4>4° passo</h4>
 <p>Com a placa instalada, basta seleciona-lá em "Tools>board".</p>
 <p>Procure por Wemos D1 R2 e a selecione.</p>
 <img src="https://user-images.githubusercontent.com/53026536/69002493-3180d280-08cf-11ea-922c-97b3f91d82b5.png">
